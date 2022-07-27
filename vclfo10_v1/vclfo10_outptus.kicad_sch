@@ -1042,7 +1042,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1e067be7-59ce-4095-bfa3-82420a796eaa)
   )
-  (text "Simulation \nhttps://tinyurl.com/y4pyg7va" (at 127 38.1 0)
+  (text "Simulation \nhttps://tinyurl.com/y4pyg7va\nhttps://tinyurl.com/2q49y589"
+    (at 127 38.1 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 52070059-5925-409c-a049-428154849a8c)
   )
