@@ -1,0 +1,5 @@
+v1 issues
+ - alternate led stuff should go to output of the lfo filter, it doesn't work with the pwm output of the chip because it doesn't go negative. used a 10k 1/4 watt instead of R51 to go from led stuff to R73, see photo.
+ - switches operate backwards from expected, so flipping them on pcb would improve that.
+ - zero adjust pot seems to be backwards, would make more sense if it was reversed.
+
